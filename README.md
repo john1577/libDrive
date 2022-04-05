@@ -28,7 +28,7 @@ libDrive is a Google Drive media library manager and indexer, similar to Plex, t
 
 I decided to create this project to, of course, organize my Google Drive library, but also develop my coding skills, and learn JavaScript in the process.
 
-This repository (<https://github.com/libDrive/libDrive>) only acts as a hub for information and community discussions regarding libDrive, no source code is displayed on this repository.
+This repository (<https://github.com/john1577/libDrive>) only acts as a hub for information and community discussions regarding libDrive, no source code is displayed on this repository.
 
 ## Source code
 
